@@ -13,15 +13,18 @@ following solvers:
 
 To build the code, simple type:		
 
-   $ cd ARock
-   $ make
+``` sh
+     cd ARock
+      make
+``` sh      
 
 If build is sucessful, you should be able to find the following executable files in the bin folder:
 
-   $ bin/jacobi
-   $ bin/least_square (coming soon...)
-   $ bin/logistic     (coming soon...)
-
+``` sh
+   bin/jacobi
+   bin/least_square 
+   bin/logistic     
+``` sh
 
 ## Test
 
