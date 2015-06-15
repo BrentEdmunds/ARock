@@ -14,16 +14,16 @@ following solvers:
 To build the code, simple type:		
 
 ``` sh
-     cd ARock
-      make
+    cd ARock
+    make
 ``` sh      
 
 If build is sucessful, you should be able to find the following executable files in the bin folder:
 
 ``` sh
-   bin/jacobi
-   bin/least_square 
-   bin/logistic     
+    bin/jacobi
+    bin/least_square 
+    bin/logistic     
 ``` sh
 
 ## Test
